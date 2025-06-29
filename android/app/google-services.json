@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "835245107407",
+    "project_id": "kopifinder",
+    "storage_bucket": "kopifinder.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835245107407:android:7f4f5f7f592b178412efba",
+        "android_client_info": {
+          "package_name": "com.rema.kopifinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835245107407-28ok65t6k3o77v7c4sc0ak46kqo5hv24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rema.kopifinder",
+            "certificate_hash": "d849d431283c5729a483670ec7e4bd73c6d3cd5f"
+          }
+        },
+        {
+          "client_id": "835245107407-m6rts3b7621h12jcs54ve2md7oc8rs0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhalnkegPmKmcT4Lgq75O6Y2_ZJ7iIdOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835245107407-m6rts3b7621h12jcs54ve2md7oc8rs0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
