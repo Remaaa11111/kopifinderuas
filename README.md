@@ -1,4 +1,4 @@
-https://github.com/Remaaa11111/kopifinder/blob/main/app-release.apk
+
 
 # kopifinder
 
